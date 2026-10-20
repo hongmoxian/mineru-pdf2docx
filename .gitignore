@@ -1,0 +1,20 @@
+# 虚拟环境
+.venv/
+venv/
+
+# 解析输出（含受版权保护的论文内容，不进仓库）
+output/
+
+# 本地路径列表
+dft_papers.txt
+papers.txt
+
+# 临时/测试文件
+*.docx
+!README.md
+__pycache__/
+*.pyc
+
+# 系统文件
+Thumbs.db
+desktop.ini
